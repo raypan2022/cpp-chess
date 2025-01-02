@@ -1,5 +1,4 @@
 # 1v1 Chess
----
 Game of chess written in C++
 
 Here are the available game modes:
