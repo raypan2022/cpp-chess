@@ -1,3 +1,9 @@
-# 1v1 Chess (Player vs Player and Player vs Computer and Computer vs Computer)
+# 1v1 Chess
 ---
 Game of chess written in C++
+
+Here are the available game modes:
+- Player vs Player
+- Player vs Computer
+- Computer vs Computer
+
